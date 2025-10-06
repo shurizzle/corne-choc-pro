@@ -1,5 +1,7 @@
 # Corne Choc Pro by Keebart
 
+![corne](/.github/pictures/corne.jpeg)
+
 ### Compile firmware
 
 `./compile.sh`
